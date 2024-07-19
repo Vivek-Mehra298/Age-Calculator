@@ -1,0 +1,12 @@
+@media screen and (max-width:670px)
+{
+  .output,.input{
+    color: black;
+  }
+  .input{
+    font-size: 1.4rem;
+  }
+  .output{
+    font-size: 1.4rem;
+  }
+}
